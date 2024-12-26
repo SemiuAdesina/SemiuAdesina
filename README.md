@@ -30,7 +30,7 @@ Full-stack Developer | Passionate about Backend Engineering & MERN Stack | Build
 - **Email**: [ademolaadesinadev@gmail.com](ademolaadesinadev@gmail.com)
 - **GitHub**: [GitHub Profile](https://github.com/SemiuAdesina)
 - **LinkedIn**: [Semiu Ademola Adesina](https://www.linkedin.com/in/semiu-ademola-adesina-585141319?trk=contact-info)
-- **Portfolio**: [My Portfolio]([https://my-portfolio-o9xj.onrender.com/](https://my-portfolio-o9xj.onrender.com)
+- **Portfolio**: [My Portfolio](https://my-portfolio-o9xj.onrender.com)
 
 ## 😄 Pronouns
 He/Him
