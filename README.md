@@ -27,8 +27,8 @@ Full-stack Developer | Passionate about Backend Engineering & MERN Stack | Build
 - Open-source backend tools and APIs.
 
 ## 📫 How to Reach Me
-- **Email**: [sadesina893@stu.ui.edu.ng](sadesina893@stu.ui.edu.ng)
-- **Portfolio**: [My Portfolio](https://semiuadesina.github.io/MYPORTFOLIO/)
+- **Email**: [ademolaadesinadev@gmail.com](ademolaadesinadev@gmail.com)
+- **Portfolio**: [My Portfolio]([https://semiuadesina.github.io/MYPORTFOLIO/](https://my-portfolio-o9xj.onrender.com)
 - **GitHub**: [GitHub Profile](https://github.com/SemiuAdesina)
 - **LinkedIn**: [Semiu Ademola Adesina](https://www.linkedin.com/in/semiu-ademola-adesina-585141319?trk=contact-info)
 
