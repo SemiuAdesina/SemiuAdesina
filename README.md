@@ -17,9 +17,10 @@ My passion lies in leveraging technology to solve complex problems, from automat
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Blockchain & Web3:**
-* **Protocols:** Smart Contract Development, Decentralized Protocols, Hybrid On-chain/Off-chain Architecture.
-* **Concepts:** Automated Market Makers (AMM), Liquidity Pools, Distributed Ledgers, and Consensus Mechanisms.
+**Architecture & Systems Engineering:**
+* **System Design & Distributed Systems:** Experienced in Microservices Architecture, Distributed Ledgers, and System Design Principles (SOLID).
+* **Core Concepts:** Object-Oriented Programming (OOP), Unified Modeling Language (UML), and Advanced Data Structures & Algorithms.
+* **Blockchain & Web3:** Smart Contract Development, Decentralized Protocols, Hybrid On-chain/Off-chain Architecture, and Consensus Mechanisms.
 
 **Frontend & Mobile:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -35,6 +36,7 @@ My passion lies in leveraging technology to solve complex problems, from automat
 **Tools & DevOps:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
@@ -56,6 +58,17 @@ My passion lies in leveraging technology to solve complex problems, from automat
 
 ---
 
+### 📈 GitHub Stats
+
+![Semiu's GitHub stats](https://github-readme-stats-ten-blush-42.vercel.app/api?username=SemiuAdesina&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-ten-blush-42.vercel.app/api/top-langs/?username=SemiuAdesina&layout=compact&theme=radical&hide=html,css)
+
+---
+
+## 📫 How to Reach Me
+- **Email**: [ademolaadesinadev@gmail.com](mailto:ademolaadesinadev@gmail.com)
+- **LinkedIn**: [Semiu Ademola Adesina](https://www.linkedin.com/in/semiu-ademola-adesina-585141319)
+- **Portfolio**: [thedamozportfolio.com](https://thedamozportfolio.com)
 ### 📚 Education & Certifications
 
 * **MS in Software Engineering** | Quantic School of Business and Technology _(In Progress)_
