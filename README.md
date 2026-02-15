@@ -82,7 +82,7 @@ My passion lies in leveraging technology to solve complex problems, from automat
 He/Him
 
 ## ⚡ Fun Fact
-I’m a full-stack developer passionate about leveraging technology to build impactful and innovative applications!
+I’m a full-stack developer passionate about leveraging technology to build impactful and innovative applications!!
 
 ---
 
