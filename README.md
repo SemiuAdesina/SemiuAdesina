@@ -2,7 +2,7 @@
 
 ### 🚀 Software Engineer | MS Candidate in Software Engineering
 
-I am a results-driven Software Engineer with a unique background in Pharmacy, currently pursuing a **Master's in Software Engineering** at the Quantic School of Business and Technology. I specialize in building scalable backend systems, Blockchain, mobile applications, and AI-integrated solutions.
+I am a results-driven Software Engineer with a unique background in Pharmacy, currently pursuing a **Master's in Software Engineering** at the Quantic School of Business and Technology. I specialize in building scalable backend systems, Blockchain infrastructure, mobile applications, and AI-integrated solutions.
 
 My passion lies in leveraging technology to solve complex problems, from automating business workflows to improving healthcare systems.
 
@@ -14,8 +14,12 @@ My passion lies in leveraging technology to solve complex problems, from automat
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+**Blockchain & Web3:**
+* **Protocols:** Smart Contract Development, Decentralized Protocols, Hybrid On-chain/Off-chain Architecture.
+* **Concepts:** Automated Market Makers (AMM), Liquidity Pools, Distributed Ledgers, and Consensus Mechanisms.
 
 **Frontend & Mobile:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -25,22 +29,20 @@ My passion lies in leveraging technology to solve complex problems, from automat
 **Backend & Database:**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 **Tools & DevOps:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
 ### 💼 Featured Work Experience
 
 **🔹 ViroVita HealthGlobal Inc.**
-* **VVTPay Integration:** Strategic Payment Architecture: Consulted on and engineered a secure financial bridge for a decentralized health platform, ensuring audit-ready data flows and reducing transaction risk.
+* **VVTPay Hybrid Payment Rail:** Architected a hybrid payment infrastructure integrating traditional financial gateways with decentralized ledger protocols. Designed the secure transaction bridge to ensure high-throughput processing and transparent audit trails for healthcare service payments.
 
 **🔹 Freelance Software Engineer**
 * **eBay Automation Bot:** Built a bot for real-time listing analysis and profit margin grading, reducing manual research effort by **70%**.
