@@ -40,7 +40,7 @@ My passion lies in leveraging technology to solve complex problems, from automat
 ### 💼 Featured Work Experience
 
 **🔹 ViroVita HealthGlobal Inc.**
-* **VVTPay Integration:** Engineered a secure payment integration layer for a decentralized health platform. Designed a high-reliability bridge between financial transactions and patient service accessibility, ensuring audit-ready data flows.
+* **VVTPay Integration:** Strategic Payment Architecture: Consulted on and engineered a secure financial bridge for a decentralized health platform, ensuring audit-ready data flows and reducing transaction risk.
 
 **🔹 Freelance Software Engineer**
 * **eBay Automation Bot:** Built a bot for real-time listing analysis and profit margin grading, reducing manual research effort by **70%**.
