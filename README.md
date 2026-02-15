@@ -39,6 +39,9 @@ My passion lies in leveraging technology to solve complex problems, from automat
 
 ### 💼 Featured Work Experience
 
+**🔹 ViroVita HealthGlobal Inc.**
+* **VVTPay Integration:** Engineered a secure payment integration layer for a decentralized health platform. Designed a high-reliability bridge between financial transactions and patient service accessibility, ensuring audit-ready data flows.
+
 **🔹 Freelance Software Engineer**
 * **eBay Automation Bot:** Built a bot for real-time listing analysis and profit margin grading, reducing manual research effort by **70%**.
 * **Missed-Call Text-Back Bot:** Developed a Node.js/Telnyx automation that handles 80% of SMS responses and scheduling for a local business.
@@ -48,7 +51,7 @@ My passion lies in leveraging technology to solve complex problems, from automat
 
 **🔹 Handshake AI LLC**
 * **AI Model Evaluation:** Collaborating with researchers to refine Large Language Models (LLMs) through human-in-the-loop evaluation and performance analysis.
-
+  
 ---
 
 ### 📚 Education & Certifications
@@ -66,9 +69,9 @@ My passion lies in leveraging technology to solve complex problems, from automat
 
 ### 📈 GitHub Stats
 
-![Semiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemiuAdesina&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemiuAdesina&layout=compact&theme=radical)
+![Semiu's GitHub stats](https://github-readme-stats-rd9xwygmj-semiuadesinas-projects.vercel.app/api?username=SemiuAdesina&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats-rd9xwygmj-semiuadesinas-projects.vercel.app/api/top-langs/?username=SemiuAdesina&layout=compact&theme=radical)
 ---
 
 ## 📫 How to Reach Me
