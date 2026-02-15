@@ -58,13 +58,6 @@ My passion lies in leveraging technology to solve complex problems, from automat
 
 ---
 
-### 📈 GitHub Stats
-
-![Semiu's GitHub stats](https://github-readme-stats-ten-blush-42.vercel.app/api?username=SemiuAdesina&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-ten-blush-42.vercel.app/api/top-langs/?username=SemiuAdesina&layout=compact&theme=radical&hide=html,css)
-
----
-
 ## 📫 How to Reach Me
 - **Email**: [ademolaadesinadev@gmail.com](mailto:ademolaadesinadev@gmail.com)
 - **LinkedIn**: [Semiu Ademola Adesina](https://www.linkedin.com/in/semiu-ademola-adesina-585141319)
