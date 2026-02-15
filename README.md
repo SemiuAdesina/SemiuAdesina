@@ -68,7 +68,7 @@ My passion lies in leveraging technology to solve complex problems, from automat
 
 ![Semiu's GitHub Stats](https://github-readme-stats-ten-blush-42.vercel.app/api?username=SemiuAdesina&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-ten-blush-42.vercel.app/api/top-langs/?username=SemiuAdesina&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-ten-blush-42.vercel.app/api/top-langs/?username=SemiuAdesina&layout=compact&theme=radical&hide=html,css,shell)
 
 ---
 
